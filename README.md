@@ -1,1 +1,2 @@
 # raijin
+Learn quicker.
