@@ -1,5 +1,6 @@
 import checkStatus from './checkStatus';
 
 export default function () {
-  console.log(checkStatus());
+  let status = checkStatus();
+  console.log(status);
 }

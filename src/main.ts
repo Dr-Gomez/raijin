@@ -1,11 +1,11 @@
 import './style.css';
 import setup from './setup/setup';
+import display from './display/display';
 
 function main(): void {
   let body: HTMLBodyElement = document.body as HTMLBodyElement;
-  console.log(body);
-
   setup();
+  display(body);
 }
 
 main();

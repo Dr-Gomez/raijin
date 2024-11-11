@@ -1,0 +1,10 @@
+#scrollWrapper {
+  width: 40vmin;
+  height: 90vmin;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: aliceblue;
+  border-radius: 1vmin;
+}
